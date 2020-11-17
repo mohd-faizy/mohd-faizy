@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/F4izy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=F4izy)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://ai.stackexchange.com/users/36737/cypher)
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://www.linkedin.com/in/faizy-mohd-836573122/)
-[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](https://twitter.com/ylecun/status/989610208497360896?lang=en)
+[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](https://twitter.com/ylecun/status/989610208497360896)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Training with large minibatches is bad for your health.<br>More importantly, it&#39;s bad for your test error.<br>Friends dont let friends use minibatches larger than 32. <a href="https://t.co/hxx2rGhIG1">https://t.co/hxx2rGhIG1</a></p>&mdash; Yann LeCun (@ylecun) <a href="https://twitter.com/ylecun/status/989610208497360896?ref_src=twsrc%5Etfw">April 26, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
