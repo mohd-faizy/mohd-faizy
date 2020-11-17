@@ -5,7 +5,7 @@
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://www.linkedin.com/in/faizy-mohd-836573122/)
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](https://twitter.com/ylecun/status/989610208497360896)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Training with large minibatches is bad for your health.<br>More importantly, it&#39;s bad for your test error.<br>Friends dont let friends use minibatches larger than 32. <a href="https://t.co/hxx2rGhIG1">https://t.co/hxx2rGhIG1</a></p>&mdash; Yann LeCun (@ylecun) <a href="https://twitter.com/ylecun/status/989610208497360896?ref_src=twsrc%5Etfw">April 26, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/ylecun.png' height='200'  width='400' >
 
 <!--
 **mohd-faizy/mohd-faizy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
