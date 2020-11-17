@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/F4izy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=F4izy)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://ai.stackexchange.com/users/36737/cypher)
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://www.linkedin.com/in/faizy-mohd-836573122/)
-[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](https://twitter.com/ylecun/status/989610208497360896)
+[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](https://en.wikipedia.org/wiki/AI_winter)
 
 <img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/ylecun.png' height='200'  width='400' >
 
