@@ -14,7 +14,7 @@
 - 📫 How to reach me: mohdfaizy@ymail.com
 - 😄 Favourite Quote: [__Attention Is All You Need__](https://arxiv.org/abs/1706.03762) 📃
 - ⚠️ [__Fun fact:__](https://twitter.com/ylecun/status/989610208497360896)👇
-<img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/ylecun.png' height='200'  width='400' >
+<img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/ylecun.png' height='200'  width='450' >
 
 
 ### Connect with me:
