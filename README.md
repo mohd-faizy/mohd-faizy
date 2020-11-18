@@ -1,14 +1,23 @@
 ### Hi there, I'm Faizy 👋
 
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/F4izy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=F4izy)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://ai.stackexchange.com/users/36737/cypher)
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://www.linkedin.com/in/faizy-mohd-836573122/)
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](https://en.wikipedia.org/wiki/AI_winter)
 
+## I am a self taught data science enthusiast, Masters in Electronics & Comm. Engg. Jamia Millia Islamia
+
+- 🎯  Aim at Bridging the gap between __AI Universe__ and __Chip level Universe__ to get from AI frameworks like __TensorFlow__ into synthesizable __RTL__, enabling the development of high-performance inference architectures. 
+- 🌱 I’m currently learning __TensorFlow Probability__ for __probabilistic reasoning__ and __statistical analysis__
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- 📫 How to reach me: mohdfaizy@ymail.com
+- 😄 Favourite Quote: [__Attention Is All You Need__](https://arxiv.org/abs/1706.03762)
+- ⚠️ Fun fact:👇
 <img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/ylecun.png' height='200'  width='400' >
 
-### Connect with me:
 
+### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -18,12 +27,9 @@
 [linkedin]: https://www.linkedin.com/in/faizy-mohd-836573122/
 [StackExchange AI]: https://ai.stackexchange.com/users/36737/cypher
 
-<br />
+
 
 ### Languages and Tools:
-
-
-
 <img align="left" alt="Tensorflow" width="46px" src="https://www.tensorflow.org/resources/images/tf-logo-card-16x9.png">
 <img align="left" alt="Keras" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png">
 <img align="left" alt="pytorch" width="28px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYgDni61fImLmbS7es-r4Vsbc782DmR-HvmQ&usqp=CAU">
@@ -42,19 +48,3 @@
 <img align="left" alt="Terminal" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 
 
-
-
-<!--
-**mohd-faizy/mohd-faizy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
