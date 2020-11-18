@@ -6,13 +6,13 @@
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://www.linkedin.com/in/faizy-mohd-836573122/)
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](https://en.wikipedia.org/wiki/AI_winter)
 
-## I am a self taught data science enthusiast, Masters in Electronics & Comm. Engg. Jamia Millia Islamia
+### Self taught Data Science Enthusiast | Focused on Solving real-world problem using AI & Machine Learning | Masters in Electronics & Comm. Engg. | 🎓Alumnus: Jamia Millia Islamia
 
 - 🎯  Aim at Bridging the gap between __AI Universe__ and __Chip level Universe__ to get from AI frameworks like __TensorFlow__ into synthesizable __RTL__, enabling the development of high-performance inference architectures. 
 - 🌱 I’m currently learning __TensorFlow Probability__ for __probabilistic reasoning__ and __statistical analysis__
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: mohdfaizy@ymail.com
-- 😄 Favourite Quote: [__Attention Is All You Need__](https://arxiv.org/abs/1706.03762)
+- 😄 Favourite Quote: [__Attention Is All You Need__](https://arxiv.org/abs/1706.03762) 📃
 - ⚠️ Fun fact:👇
 <img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/ylecun.png' height='200'  width='400' >
 
