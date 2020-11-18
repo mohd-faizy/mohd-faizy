@@ -8,7 +8,7 @@
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://www.linkedin.com/in/faizy-mohd-836573122/)
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](https://en.wikipedia.org/wiki/AI_winter)
 
-### Self taught Data Science Enthusiast | Focused on Solving real-world problem using AI & Machine Learning | Masters in Electronics & Comm. Engg. | 🎓Alumnus: Jamia Millia Islamia
+### Data Science Enthusiast | Focused on Solving real-world problem using AI & Machine Learning | Masters in Electronics & Comm. Engg. | 🎓Alumnus: Jamia Millia Islamia
 
 >![Profile views](https://gpvc.arturio.dev/mohd-faizy)
 
