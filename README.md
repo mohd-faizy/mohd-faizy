@@ -8,6 +8,8 @@
 
 ### Self taught Data Science Enthusiast | Focused on Solving real-world problem using AI & Machine Learning | Masters in Electronics & Comm. Engg. | 🎓Alumnus: Jamia Millia Islamia
 
+>![Profile views](https://gpvc.arturio.dev/mohd-faizy)
+
 - 🎯  Aim at Bridging the gap between __AI Universe__ and __Chip level Universe__ to get from AI frameworks like __TensorFlow__ into synthesizable __RTL__, enabling the development of high-performance inference architectures. 
 - 🌱 I’m currently learning __TensorFlow Probability__ for __probabilistic reasoning__ and __statistical analysis__
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -26,6 +28,8 @@
 [twitter]: https://twitter.com/F4izy
 [linkedin]: https://www.linkedin.com/in/faizy-mohd-836573122/
 [StackExchange AI]: https://ai.stackexchange.com/users/36737/cypher
+
+
 
 
 
