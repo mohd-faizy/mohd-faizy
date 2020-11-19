@@ -22,6 +22,8 @@
 > <img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/ylecun.png' height='200'  width='450' >
 
 
+<img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/Specliz_Cert.jpg'>
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
