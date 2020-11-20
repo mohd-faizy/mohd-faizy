@@ -25,19 +25,6 @@
 ## Specializations
 <img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/Specliz_Cert.jpg'>
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][StackExchange AI]
-
-[twitter]: https://twitter.com/F4izy
-[linkedin]: https://www.linkedin.com/in/faizy-mohd-836573122/
-[StackExchange AI]: https://ai.stackexchange.com/users/36737/cypher
-
-
-
-
 
 ### Languages and Tools:
 <img align="left" alt="Tensorflow" width="46px" src="https://www.tensorflow.org/resources/images/tf-logo-card-16x9.png">
@@ -57,4 +44,10 @@
 <img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
 <img align="left" alt="Terminal" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 
+
+---
+
+### GitStats
+
+![Faizy's github stats](https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true)
 
