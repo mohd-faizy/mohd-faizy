@@ -34,14 +34,19 @@
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/amd-Radeon%20RX%205500-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" />
 </p>
 
 <p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
 
->![Profile views](https://gpvc.arturio.dev/mohd-faizy)
+
+</p>
+<p align='center'>
+  <a href="#"><img src="https://gpvc.arturio.dev/mohd-faizy"></a>
+</p>
+
 
 - 🎯  Aim at Bridging the gap between __AI Universe__ and __Chip level Universe__ to get from AI frameworks like __TensorFlow__ into synthesizable __RTL__, enabling the development of high-performance inference architectures. 
 - 🌱 I’m currently learning __TensorFlow Probability__ for __probabilistic reasoning__ and __statistical analysis__
@@ -55,8 +60,6 @@
 ## Specializations
 <img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/Specliz_Cert.jpg'>
 
-
-> ![Faizy's github stats](https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true)
 
 ### Languages and Tools:
 <img align="left" alt="Tensorflow" width="46px" src="https://www.tensorflow.org/resources/images/tf-logo-card-16x9.png">
