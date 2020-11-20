@@ -5,13 +5,6 @@
 >[![Linkedin: Faizy](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizy-mohd-836573122/)
 >[![StackOverFlow: Faizy](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://ai.stackexchange.com/users/36737/faizy)
 
-
-
-
----
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://ai.stackexchange.com/users/36737/cypher)
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://www.linkedin.com/in/faizy-mohd-836573122/)
-[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](https://en.wikipedia.org/wiki/AI_winter)
 ---
 
 ### Data Science Enthusiast | Focused on Solving real-world problem using AI & Machine Learning | Masters Degree in Electronics & Comm. Engg. | 🎓Alumnus: Jamia Millia Islamia
