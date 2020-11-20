@@ -1,7 +1,12 @@
 ### Hi there, I'm Faizy 👋
 
 
-> [![Twitter Follow](https://img.shields.io/twitter/follow/F4izy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=F4izy)
+>[![Twitter Follow](https://img.shields.io/twitter/follow/F4izy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=F4izy)
+>[![Linkedin: Faizy](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizy-mohd-836573122/)
+>[![StackOverFlow: Faizy](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://ai.stackexchange.com/users/36737/faizy)
+
+
+
 
 ---
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://ai.stackexchange.com/users/36737/cypher)
