@@ -1,13 +1,45 @@
-### Hi there, I'm Faizy 👋
+<h1 align='center'>
+  Hi there 👋 I'm Faizy 👨‍💻
+</h1>
+
+<p align='center'>
+  A Data Science Enthusiast | Focused on Solving real-world problem using AI & Machine Learning | Masters Degree in Electronics & Comm. Engg. | 🎓Alumnus: Jamia Millia Islamia
+</p>
 
 
->[![Twitter Follow](https://img.shields.io/twitter/follow/F4izy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=F4izy)
->[![Linkedin: Faizy](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizy-mohd-836573122/)
->[![StackOverFlow: Faizy](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://ai.stackexchange.com/users/36737/faizy)
 
----
+<p align='center'>
+  
+  <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  </a>&nbsp;&nbsp;-->
+  <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=F4izy">
+    <img src="https://img.shields.io/twitter/follow/F4izy?color=1DA1F2&logo=twitter&style=for-the-badge" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/faizy-mohd-836573122/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://ai.stackexchange.com/users/36737/faizy">
+    <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
-### Data Science Enthusiast | Focused on Solving real-world problem using AI & Machine Learning | Masters Degree in Electronics & Comm. Engg. | 🎓Alumnus: Jamia Millia Islamia
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+<p align='center'>
+  💻 My workspace specs<br/><br/>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
+<p align='center'>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+</p>
 
 >![Profile views](https://gpvc.arturio.dev/mohd-faizy)
 
