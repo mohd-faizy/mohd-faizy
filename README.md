@@ -57,7 +57,7 @@
 > <img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/ylecun.png' height='200'  width='450' >
 
 
-## Specializations
+## MySpecializations
 <img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/Specliz_Cert.jpg'>
 
 
