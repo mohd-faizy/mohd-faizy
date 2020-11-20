@@ -26,6 +26,8 @@
 <img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/Specliz_Cert.jpg'>
 
 
+> ![Faizy's github stats](https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true)
+
 ### Languages and Tools:
 <img align="left" alt="Tensorflow" width="46px" src="https://www.tensorflow.org/resources/images/tf-logo-card-16x9.png">
 <img align="left" alt="Keras" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png">
@@ -48,5 +50,4 @@
 
 
 
-> ![Faizy's github stats](https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true)
 
