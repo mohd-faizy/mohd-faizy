@@ -53,7 +53,7 @@
 
 
 - 🎯  Aim at Bridging the gap between __AI Universe__ and __Chip level Universe__ to get from AI frameworks like __TensorFlow__ into synthesizable __RTL__, enabling the development of high-performance inference architectures. 
-- 🌱 I’m currently learning __TensorFlow Probability__ for __probabilistic reasoning__ and __statistical analysis__
+- 🌱 I’m currently learning [__TensorFlow Probability__](https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow) for __probabilistic reasoning__ and __statistical analysis__
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: mohdfaizy@ymail.com
 - 😄 Favourite Quote: [__Attention Is All You Need__](https://arxiv.org/abs/1706.03762) 📃
