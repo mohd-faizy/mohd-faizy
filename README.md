@@ -64,6 +64,12 @@
 ## MySpecializations
 <img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/Specliz_Cert.jpg'>
 
+##  [Acclaim Badges](https://www.youracclaim.com/users/mohd-faizy)
+
+<p align='center'>
+  <a href="#"><img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/acclaim_badges.png'></a>
+</p>
+
 
 ### Languages and Tools:
 <img align="left" alt="Tensorflow" width="46px" src="https://www.tensorflow.org/resources/images/tf-logo-card-16x9.png">
