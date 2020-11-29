@@ -74,58 +74,58 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-    <a href="" target="_blank">
+    <a href="https://www.tensorflow.org/" target="_blank">
         <img src="https://www.kubeflow.org/docs/images/logos/TensorFlow.png" alt="c" width="40" height="40"/> 
     </a>
-    <a href="" target="_blank">
+    <a href="https://keras.io/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="c" width="40" height="40"/> 
     </a>
-    <a href="" target="_blank">
+    <a href="https://pytorch.org/" target="_blank">
         <img src="https://seeklogo.com/images/P/pytorch-logo-84F95D0AF5-seeklogo.com.png" alt="c" width="40" height="40"/> 
     </a>
-    <a href="" target="_blank">
+    <a href="https://numpy.org/" target="_blank">
         <img src="https://numpy.org/images/logos/numpy.svg" alt="c" width="40" height="40"/> 
     </a>
-    <a href="" target="_blank">
+    <a href="https://www.scipy.org/" target="_blank">
         <img src="https://www.scipy.org/_static/images/scipy_med.png" alt="c" width="40" height="40"/> 
     </a>
-    <a href="" target="_blank">
+    <a href="https://scikit-learn.org/stable/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="c" width="50" height="40"/> 
     </a>
-    <a href="" target="_blank">
+    <a href="https://pandas.pydata.org/" target="_blank">
         <img src="https://cdn.shortpixel.ai/spai/q_lossy+ret_img/https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" alt="c" width="50" height="50"/> 
     </a>
-    <a href="" target="_blank">
+    <a href="https://seaborn.pydata.org/" target="_blank">
         <img src="https://i1.wp.com/cmdlinetips.com/wp-content/uploads/2020/09/Seaborn_logo.png?resize=234%2C246&ssl=1" alt="c" width="40" height="40"/> 
     </a>
-    <a href="" target="_blank">
+    <a href="https://matplotlib.org/" target="_blank">
         <img src="https://www.scipy.org/_static/images/matplotlib_med.png" alt="c" width="40" height="40"/> 
     </a>
-    <a href="" target="_blank">
+    <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="c" width="40" height="40"/> 
     </a>
-    <a href="" target="_blank">
+    <a href="https://www.python.org/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="c" width="40" height="40"/> 
     </a>
-    <a href="" target="_blank">
+    <a href="https://www.w3schools.com/html/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/html5/html5-original.svg" alt="c" width="40" height="40"/> 
     </a>
-    <a href="" target="_blank">
+    <a href="https://www.w3schools.com/html/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/css3/css3-original.svg" alt="c" width="40" height="40"/> 
     </a>
-    <a href="" target="_blank">
+    <a href="https://www.w3schools.com/html/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/javascript/javascript-plain.svg" alt="c" width="40" height="40"/> 
     </a>
-    <a href="" target="_blank">
+    <a href="https://git-scm.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/git/git-original.svg" alt="c" width="40" height="40"/> 
     </a>
-    <a href="" target="_blank">
+    <a href="https://github.com/mohd-faizy" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/github/github-original.svg" alt="c" width="40" height="40"/> 
     </a>
-    <a href="" target="_blank">
+    <a href="https://www.gnu.org/software/bash/" target="_blank">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="c" width="40" height="40"/> 
     </a>
-    <a href="" target="_blank">
+    <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/photoshop/photoshop-plain.svg" alt="c" width="40" height="40"/> 
     </a>
 </p>
