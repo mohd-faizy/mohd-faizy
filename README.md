@@ -71,21 +71,62 @@
 </p>
 
 
-### Languages and Tools:
-<img align="left" alt="Tensorflow" width="46px" src="https://www.tensorflow.org/resources/images/tf-logo-card-16x9.png">
-<img align="left" alt="Keras" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png">
-<img align="left" alt="pytorch" width="28px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYgDni61fImLmbS7es-r4Vsbc782DmR-HvmQ&usqp=CAU">
-<img align="left" alt="numpy" width="28px" src="https://numpy.org/images/logos/numpy.svg">
-<img align="left" alt="Scipy" width="28px" src="https://www.scipy.org/_static/images/scipy_med.png">
-<img align="left" alt="Pandas" width="44px" src="https://cdn.shortpixel.ai/spai/q_lossy+ret_img/https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png">
-<img align="left" alt="Sklearn" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
-<img align="left" alt="Seaborn" width="28px" src="https://i1.wp.com/cmdlinetips.com/wp-content/uploads/2020/09/Seaborn_logo.png?resize=234%2C246&ssl=1">
-<img align="left" alt="Matplotlib" width="28px" src="https://www.scipy.org/_static/images/matplotlib_med.png">
-<img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-<img align="left" alt="jupyterNotebook" width="28px" src="https://miro.medium.com/max/1036/1*FogMIj4gYwp3fTHLZuwavQ.png">
-<img align="left" alt="Python" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png">
-<img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img align="left" alt="Git" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
-<img align="left" alt="Terminal" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+    <a href="" target="_blank">
+        <img src="https://www.kubeflow.org/docs/images/logos/TensorFlow.png" alt="c" width="40" height="40"/> 
+    </a>
+    <a href="" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="c" width="40" height="40"/> 
+    </a>
+    <a href="" target="_blank">
+        <img src="https://seeklogo.com/images/P/pytorch-logo-84F95D0AF5-seeklogo.com.png" alt="c" width="40" height="40"/> 
+    </a>
+    <a href="" target="_blank">
+        <img src="https://numpy.org/images/logos/numpy.svg" alt="c" width="40" height="40"/> 
+    </a>
+    <a href="" target="_blank">
+        <img src="https://www.scipy.org/_static/images/scipy_med.png" alt="c" width="40" height="40"/> 
+    </a>
+    <a href="" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="c" width="50" height="40"/> 
+    </a>
+    <a href="" target="_blank">
+        <img src="https://cdn.shortpixel.ai/spai/q_lossy+ret_img/https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" alt="c" width="50" height="50"/> 
+    </a>
+    <a href="" target="_blank">
+        <img src="https://i1.wp.com/cmdlinetips.com/wp-content/uploads/2020/09/Seaborn_logo.png?resize=234%2C246&ssl=1" alt="c" width="40" height="40"/> 
+    </a>
+    <a href="" target="_blank">
+        <img src="https://www.scipy.org/_static/images/matplotlib_med.png" alt="c" width="40" height="40"/> 
+    </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="c" width="40" height="40"/> 
+    </a>
+    <a href="" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="c" width="40" height="40"/> 
+    </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/html5/html5-original.svg" alt="c" width="40" height="40"/> 
+    </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/css3/css3-original.svg" alt="c" width="40" height="40"/> 
+    </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/javascript/javascript-plain.svg" alt="c" width="40" height="40"/> 
+    </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/git/git-original.svg" alt="c" width="40" height="40"/> 
+    </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/github/github-original.svg" alt="c" width="40" height="40"/> 
+    </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="c" width="40" height="40"/> 
+    </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/photoshop/photoshop-plain.svg" alt="c" width="40" height="40"/> 
+    </a>
+</p>
 
