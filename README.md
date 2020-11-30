@@ -91,7 +91,7 @@
         <img src="https://www.scipy.org/_static/images/scipy_med.png" alt="Scipy" width="40" height="40"/> 
     </a>
     <a href="https://scikit-learn.org/stable/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Sckit_learn" width="50" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Sckit_learn" width="60" height="40"/> 
     </a>
     <a href="https://pandas.pydata.org/" target="_blank">
         <img src="https://cdn.shortpixel.ai/spai/q_lossy+ret_img/https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" alt="Pandas" width="50" height="50"/> 
