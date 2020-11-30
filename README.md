@@ -8,7 +8,7 @@
 </h1>
 
 <p align='center'>
-  A Data Science Enthusiast | Focused on Solving real-world problem using AI & Machine Learning | Masters Degree in Electronics & Comm. Engg. | 🎓Alumnus: Jamia Millia Islamia
+  A <b>Data Science</b> Enthusiast | Focused on Solving real-world problem using <b>AI</b> & <b>Machine Learning<b> | <b>Masters Degree in Electronics & Comm. Engg.</b> | 🎓Alumnus: Jamia Millia Islamia
 </p>
 
 
