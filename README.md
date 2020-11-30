@@ -1,5 +1,6 @@
+
 <p align='center'>
-  <a href="#"><img src="https://marlacummins.com/wp-content/uploads/2014/03/Work_In_Progress.png" height='100' width='130'></a>
+  <a href="#"><img src="https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/head.gif"></a>
 </p>
 
 <h1 align='center'>
