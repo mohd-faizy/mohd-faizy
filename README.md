@@ -21,7 +21,7 @@
   <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=F4izy">
     <img src="https://img.shields.io/twitter/follow/F4izy?color=1DA1F2&logo=twitter&style=for-the-badge" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/faizy-mohd-836573122/">
+  <a href="https://www.linkedin.com/in/mohd-faizy/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://ai.stackexchange.com/users/36737/faizy">
