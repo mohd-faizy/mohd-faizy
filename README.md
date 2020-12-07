@@ -59,7 +59,7 @@
 ## MySpecializations
 
 <p align='center'>
-  <a href="#"><img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/Spec_certi.gif?raw=true' height="500" width="700"></a>
+  <a href="#"><img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/Spec_certi.gif?raw=true'></a>
 </p>
 
 ## [Acclaim Badges](https://www.youracclaim.com/users/mohd-faizy)
