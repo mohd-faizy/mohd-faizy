@@ -1,4 +1,3 @@
-
 <p align='center'>
   <a href="#"><img src="https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/head.gif"></a>
 </p>
@@ -10,8 +9,6 @@
 <p align='center'>
   A <b>Data Science</b> Enthusiast | Focused on Solving real-world problem using <b>AI</b> & <b>Machine Learning<b> | <b>Masters Degree in Electronics & Comm. Engg.</b> | 🎓Alumnus: Jamia Millia Islamia
 </p>
-
-
 
 <p align='center'>
   
@@ -46,31 +43,30 @@
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
 
-
 </p>
 <p align='center'>
   <a href="#"><img src="https://gpvc.arturio.dev/mohd-faizy"></a>
 </p>
 
-
-- 🎯  Aim at Bridging the gap between __AI Universe__ and __Chip level Universe__ to get from AI frameworks like __TensorFlow__ into synthesizable __RTL__, enabling the development of high-performance inference architectures. 
-- 🌱 I’m currently learning [__TensorFlow Probability__](https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow) for __probabilistic reasoning__ and __statistical analysis__
+- 🎯 Aim at Bridging the gap between **AI Universe** and **Chip level Universe** to get from AI frameworks like **TensorFlow** into synthesizable **RTL**, enabling the development of high-performance inference architectures.
+- 🌱 I’m currently learning [**TensorFlow Probability**](https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow) for **probabilistic reasoning** and **statistical analysis**
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: mohdfaizy@ymail.com
-- 😄 Favourite Quote: [__Attention Is All You Need__](https://arxiv.org/abs/1706.03762) 📃
-- ⚠️ [__Fun fact:__](https://twitter.com/ylecun/status/989610208497360896)👇
-> <img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/ylecun.png' height='200'  width='450' >
-
+- 😄 Favourite Quote: [**Attention Is All You Need**](https://arxiv.org/abs/1706.03762) 📃
+- ⚠️ [**Fun fact:**](https://twitter.com/ylecun/status/989610208497360896)👇
+  > <img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/ylecun.png' height='200'  width='450' >
 
 ## MySpecializations
-<img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/Specliz_Cert.jpg'>
 
-##  [Acclaim Badges](https://www.youracclaim.com/users/mohd-faizy)
+<p align='center'>
+  <a href="#"><img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/Spec_certi.gif?raw=true' height="500" width="700"></a>
+</p>
+
+## [Acclaim Badges](https://www.youracclaim.com/users/mohd-faizy)
 
 <p align='center'>
   <a href="#"><img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/acclaim_badges.png'></a>
 </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -130,4 +126,3 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/> 
     </a>
 </p>
-
