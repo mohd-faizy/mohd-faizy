@@ -48,7 +48,7 @@
   <a href="#"><img src="https://gpvc.arturio.dev/mohd-faizy"></a>
 </p>
 
-- 🎯 Aim at Bridging the gap between **AI Universe** and **Chip level Universe** to get from AI frameworks like **TensorFlow** into synthesizable **RTL**, enabling the development of high-performance inference architectures.
+- __Aims__ at Bridging the gap between **AI Universe** and **Chip level Universe** to get from AI frameworks like **TensorFlow** into synthesizable **RTL**, enabling the development of high-performance inference architectures.
 - I’m currently learning [**TensorFlow Probability**](https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow) for **probabilistic reasoning** and **statistical analysis**
 
 
