@@ -39,10 +39,6 @@
   <img src="https://img.shields.io/badge/amd-Radeon%20RX%205500-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" />
 </p>
 
-<p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p>
-
 </p>
 <p align='center'>
   <a href="#"><img src="https://gpvc.arturio.dev/mohd-faizy"></a>
