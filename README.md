@@ -56,6 +56,10 @@
 
 ## [__Datacamp Profile__](https://www.datacamp.com/profile/ifaizymohd)
 
+<p align='center'>
+  <a href="#"><img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/DataCamp.png?raw=true'></a>
+</p>
+
 ## [Acclaim Badges](https://www.youracclaim.com/users/mohd-faizy)
 
 <p align='center'>
