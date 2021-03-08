@@ -54,6 +54,8 @@
   <a href="#"><img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/Spec_certi.gif?raw=true' height='500' width='700'></a>
 </p>
 
+## [__Datacamp Profile__](https://www.datacamp.com/profile/ifaizymohd)
+
 ## [Acclaim Badges](https://www.youracclaim.com/users/mohd-faizy)
 
 <p align='center'>
