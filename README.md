@@ -6,6 +6,8 @@
   Hi there 👋 I'm Faizy 👨‍💻
 </h1>
 
+<h3 align='center'><strong><em>https://mohd-faizy.github.io/</em></strong><h3>
+
 <p align='center'>
   A <b>Data Science</b> Enthusiast | Focused on Solving real-world problem using <b>AI</b> & <b>Machine Learning<b> | <b>Masters Degree in Electronics & Comm. Engg.</b> | 🎓Alumnus: Jamia Millia Islamia
 </p>
