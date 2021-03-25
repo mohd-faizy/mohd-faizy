@@ -2,10 +2,6 @@
   <a href="#"><img src="https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/head.gif"></a>
 </p>
 
-<h1 align='center'>
-  Hi there 👋 I'm Faizy 👨‍💻
-</h1>
-
 <h3 align='center'><strong><em>https://mohd-faizy.github.io/</em></strong><h3>
 
 <p align='center'>
