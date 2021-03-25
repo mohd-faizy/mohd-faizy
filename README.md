@@ -1,5 +1,5 @@
 <p align='center'>
-  <a href="#"><img src="https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/head.png"></a>
+  <a href="#"><img src="https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/head.gif"></a>
 </p>
 
 <h1 align='center'>
