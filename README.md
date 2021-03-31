@@ -2,9 +2,7 @@
   <a href="#"><img src="https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/head.gif"></a>
 </p>
 
-<h1 align='center'>
-  Hi there 👋 I'm Faizy 👨‍💻
-</h1>
+<h3 align='center'><strong><em>https://mohd-faizy.github.io/</em></strong><h3>
 
 <p align='center'>
   A <b>Data Science</b> Enthusiast | Focused on Solving real-world problem using <b>AI</b> & <b>Machine Learning<b> | <b>Masters Degree in Electronics & Comm. Engg.</b> | 🎓Alumnus: Jamia Millia Islamia
@@ -39,27 +37,25 @@
   <img src="https://img.shields.io/badge/amd-Radeon%20RX%205500-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" />
 </p>
 
-<p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p>
-
 </p>
 <p align='center'>
   <a href="#"><img src="https://gpvc.arturio.dev/mohd-faizy"></a>
 </p>
 
-- 🎯 Aim at Bridging the gap between **AI Universe** and **Chip level Universe** to get from AI frameworks like **TensorFlow** into synthesizable **RTL**, enabling the development of high-performance inference architectures.
-- 🌱 I’m currently learning [**TensorFlow Probability**](https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow) for **probabilistic reasoning** and **statistical analysis**
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: mohdfaizy@ymail.com
-- 😄 Favourite Quote: [**Attention Is All You Need**](https://arxiv.org/abs/1706.03762) 📃
-- ⚠️ [**Fun fact:**](https://twitter.com/ylecun/status/989610208497360896)👇
-  > <img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/ylecun.png' height='200'  width='450' >
+- __Aims__ at Bridging the gap between **AI Universe** and **Chip level Universe** to get from AI frameworks like **TensorFlow** into synthesizable **RTL**, enabling the development of high-performance inference architectures.
+- I’m currently learning [**TensorFlow Probability**](https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow) for **probabilistic reasoning** and **statistical analysis**
+
 
 ## MySpecializations
 
 <p align='center'>
   <a href="#"><img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/Spec_certi.gif?raw=true' height='500' width='700'></a>
+</p>
+
+## [__Datacamp Profile__](https://www.datacamp.com/profile/ifaizymohd)
+
+<p align='center'>
+  <a href="https://www.datacamp.com/profile/ifaizymohd"><img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/DataCamp.png?raw=true'></a>
 </p>
 
 ## [Acclaim Badges](https://www.youracclaim.com/users/mohd-faizy)
