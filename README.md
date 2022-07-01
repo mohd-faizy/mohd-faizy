@@ -77,10 +77,10 @@
         <img src="https://seeklogo.com/images/P/pytorch-logo-84F95D0AF5-seeklogo.com.png" alt="pytorch" width="40" height="40"/> 
     </a>
     <a href="https://numpy.org/" target="_blank">
-        <img src="https://numpy.org/images/logos/numpy.svg" alt="Numpy" width="40" height="40"/> 
+        <img src="https://w7.pngwing.com/pngs/134/662/png-transparent-numpy-hd-logo-thumbnail.png" alt="Numpy" width="40" height="40"/> 
     </a>
     <a href="https://www.scipy.org/" target="_blank">
-        <img src="https://www.scipy.org/_static/images/scipy_med.png" alt="Scipy" width="40" height="40"/> 
+        <img src="https://e7.pngegg.com/pngimages/665/534/png-clipart-scipy-numpy-python-scikit-learn-pip-others-miscellaneous-blue.png" alt="Scipy" width="40" height="40"/> 
     </a>
     <a href="https://scikit-learn.org/stable/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Sckit_learn" width="60" height="40"/> 
@@ -92,7 +92,7 @@
         <img src="https://i1.wp.com/cmdlinetips.com/wp-content/uploads/2020/09/Seaborn_logo.png?resize=234%2C246&ssl=1" alt="Seaborn" width="40" height="40"/> 
     </a>
     <a href="https://matplotlib.org/" target="_blank">
-        <img src="https://www.scipy.org/_static/images/matplotlib_med.png" alt="Matplotlib" width="40" height="40"/> 
+        <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="Matplotlib" width="40" height="40"/> 
     </a>
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VScode" width="40" height="40"/> 
