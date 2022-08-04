@@ -25,18 +25,6 @@
   
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
-<p align='center'>
-  💻 My workspace specs<br/><br/>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/amd-Radeon%20RX%205500-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" />
-</p>
-
 </p>
 <p align='center'>
   <a href="#"><img src="https://gpvc.arturio.dev/mohd-faizy"></a>
@@ -44,6 +32,29 @@
 
 - **Aims** at Bridging the gap between **AI Universe** and **Chip level Universe** to get from AI frameworks like **TensorFlow** into synthesizable **RTL**, enabling the development of high-performance inference architectures.
 - I’m currently learning [**TensorFlow Probability**](https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow) for **probabilistic reasoning** and **statistical analysis**
+
+<h3 align="left">Stats:</h3>
+
+<div>
+    <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=mohd-faizy&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-faizy&theme=shades-of-purple&hide_border=true"/>
+    </a>
+  </div>
+  </br>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohd-faizy&theme=react-dark&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true) 
+
+<h3 align="left">Github Profile Summary Card :</h3>
+
+</p>
+<p align='center'>
+  <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohd-faizy&theme=vue"></a>
+</p>
+
+
 
 ## MySpecializations
 
@@ -88,8 +99,7 @@
 <a  target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white " alt="alt"/> </a> 
 <a  target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white " alt="alt"/> </a> 
 <a  target="_blank"> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white " alt="alt"/> </a> 
-<a  target="_blank"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white " alt="alt"/> </a> 
-<a  target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white " alt="alt"/> </a>  
+<a  target="_blank"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white " alt="alt"/> </a>  
 <a  target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E " alt="alt"/> </a>
 <a  target="_blank"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white " alt="alt"/> </a> 
 <a  target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white " alt="alt"/> </a>   
@@ -106,5 +116,13 @@
 <a href="https://plotly.com/" target="_blank"><img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="alt"/></a>
 <a href="https://ai.stackexchange.com/users/36737/faizy" target="_blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="alt"/></a> 
 <a href="https://www.sololearn.com/profile/1507038" target="_blank"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt="alt"/></a>
+
+
+<h3 align="left">Trophy Stats:</h3>
+
+</p>
+<p align='center'>
+  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=mohd-faizy"></a>
+</p>
 
 
