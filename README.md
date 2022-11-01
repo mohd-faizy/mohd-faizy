@@ -58,23 +58,7 @@
 
 
 
-## MySpecializations
 
-<p align='center'>
-  <a href="#"><img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/Spec_certi.gif?raw=true' height='500' width='700'></a>
-</p>
-
-## [**Datacamp Profile**](https://www.datacamp.com/profile/ifaizymohd)
-
-<p align='center'>
-  <a href="https://www.datacamp.com/profile/ifaizymohd"><img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/DataCamp.png?raw=true'></a>
-</p>
-
-## [Acclaim Badges](https://www.youracclaim.com/users/mohd-faizy)
-
-<p align='center'>
-  <a href="#"><img src='https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/acclaim_badges.png'></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
