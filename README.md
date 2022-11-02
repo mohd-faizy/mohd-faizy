@@ -38,16 +38,16 @@
 <h3 align="left">Stats:</h3>
 
 <div>
-    <a href="https://github-readme-stats.vercel.app">
+    <a href="https://mohdfaizy.com/">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=mohd-faizy&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
     </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com">
+    <a href="https://mohdfaizy.com/">
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-faizy&theme=shades-of-purple&hide_border=true"/>
     </a>
   </div>
   </br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohd-faizy&theme=react-dark&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohd-faizy&theme=react-dark&custom_title=My%20Contributions%20Graph&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true") 
 
 <h3 align="left">Github Profile Summary Card :</h3>
 
