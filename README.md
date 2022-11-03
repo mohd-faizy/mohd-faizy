@@ -53,7 +53,7 @@
 
 </p>
 <p align='center'>
-  <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohd-faizy&theme=vue"></a>
+  <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohd-faizy&theme=github_dark"></a>
 </p>
 
 
