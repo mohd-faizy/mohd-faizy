@@ -2,9 +2,9 @@
   <a href="#"><img src="https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/head.gif"></a>
 </p>
 
-<p align='center'>
+<!-- <p align='center'>
   <a href="https://mohdfaizy.com/"><img src="https://raw.githubusercontent.com/mohd-faizy/mohd-faizy/main/mohd-faizy/web-icon.png" height=70px></a>
-</p> 
+</p>  -->
 
 <p align='center'>
   A <b>Data Science</b> Enthusiast | Focused on Solving real-world problem using <b>AI</b> & <b>Machine Learning<b> | <b>Masters Degree in Electronics & Comm. Engg.</b> | 🎓Alumnus: Jamia Millia Islamia
