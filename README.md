@@ -108,7 +108,7 @@
 
 </p>
 <p align='center'>
-  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=mohd-faizy"></a>
+  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=mohd-faizy&theme=monokai"></a>
 </p>
 
 
