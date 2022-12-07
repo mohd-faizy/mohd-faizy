@@ -47,7 +47,7 @@
   </div>
   </br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohd-faizy&theme=react-dark&custom_title=My%20Contributions%20Graph&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true") 
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohd-faizy&theme=react-dark&custom_title=My%20Contributions%20Graph&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true")  -->
 
 <h3 align="left">Github Profile Summary Card :</h3>
 
