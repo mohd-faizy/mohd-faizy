@@ -12,18 +12,18 @@
 
 <p align='center'>
   
-  <!-- <a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
-  </a>&nbsp;&nbsp;-->
+  <a href="https://telegram.me/@fz3301">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>    
+  </a>&nbsp;&nbsp;
   <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=F4izy">
     <img src="https://img.shields.io/twitter/follow/F4izy?color=1DA1F2&logo=twitter&style=for-the-badge" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohd-faizy/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />        
   </a>&nbsp;&nbsp;
-<!--   <a href="https://ai.stackexchange.com/users/36737/faizy">
+  <a href="https://ai.stackexchange.com/users/36737/faizy">
     <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />        
-  </a>&nbsp;&nbsp; -->
+  </a>&nbsp;&nbsp;
   
 </p>
 
