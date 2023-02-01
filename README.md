@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/mohd-faizy/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://ai.stackexchange.com/users/36737/faizy">
+  <a href="https://ai.stackexchange.com/users/36737/faizy?tab=profile">
     <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />        
   </a>&nbsp;&nbsp;
   
