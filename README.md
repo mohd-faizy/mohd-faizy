@@ -12,52 +12,62 @@
 
 <p align='center'>
   
-  <a href="https://telegram.me/@fz3301">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>    
+  <a href="https://discord.com/users/682127831760764929">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=F4izy">
     <img src="https://img.shields.io/twitter/follow/F4izy?color=1DA1F2&logo=twitter&style=for-the-badge" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohd-faizy/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />        
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://ai.stackexchange.com/users/36737/faizy?tab=profile">
-    <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />        
+    <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />
   </a>&nbsp;&nbsp;
   
 </p>
 
-</p>
 <p align='center'>
   <a href="#"><img src="https://gpvc.arturio.dev/mohd-faizy"></a>
 </p>
+
+<p align='center'>
+<a href="https://github.com/mohd-faizy">
+    <img src="https://github-stats-alpha.vercel.app/api?username=mohd-faizy&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+</p>
+
 
 - **Aims** at Bridging the gap between **AI Universe** and **Chip level Universe** to get from AI frameworks like **TensorFlow** into synthesizable **RTL**, enabling the development of high-performance inference architectures.
 - I’m currently learning [**TensorFlow Probability**](https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow) for **probabilistic reasoning** and **statistical analysis**
 
 <h3 align="left">Stats:</h3>
 
-<div>
-    <a href="https://mohdfaizy.com/">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=mohd-faizy&theme=dark&custom_title=GitHub+Stats&hide_border=true"/>
-    </a>
-    <a href="https://mohdfaizy.com/">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-faizy&theme=dark&hide_border=true"/>
-    </a>
-  </div>
-  </br>
+<p align='center'>
+<a href="https://mohdfaizy.com/">
+    <img width="65%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-faizy&theme=dark&hide_border=true"/>
+  </a>
+</p>
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohd-faizy&theme=react-dark&custom_title=My%20Contributions%20Graph&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true")  -->
+
+
+<div>
+  <a href="https://mohdfaizy.com/">
+    <img width="49%" alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohd-faizy&theme=dracula"/>
+  </a>
+  <a href="https://mohdfaizy.com/">
+    <img width="49%" alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohd-faizy&theme=dracula"/>
+  </a>
+</div>
+
+</br>
 
 <h3 align="left">Github Profile Summary Card :</h3>
 
 </p>
 <p align='center'>
-  <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohd-faizy&theme=github_dark"></a>
+  <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohd-faizy&theme=dracula"></a>
 </p>
-
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -79,17 +89,17 @@
 <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/></a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/> </a>
-<a  target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white " alt="alt"/> </a> 
-<a  target="_blank"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white " alt="alt"/> </a> 
+<a  target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white " alt="alt"/> </a>
+<a  target="_blank"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white " alt="alt"/> </a>
 <a  target="_blank"> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white " alt="alt"/> </a>  
-<a  target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white " alt="alt"/> </a> 
-<a  target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white " alt="alt"/> </a> 
-<a  target="_blank"> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white " alt="alt"/> </a> 
+<a  target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white " alt="alt"/> </a>
+<a  target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white " alt="alt"/> </a>
+<a  target="_blank"> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white " alt="alt"/> </a>
 <a  target="_blank"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white " alt="alt"/> </a>  
 <a  target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E " alt="alt"/> </a>
-<a  target="_blank"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white " alt="alt"/> </a> 
-<a  target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white " alt="alt"/> </a>   
-<a  target="_blank"> <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white " alt="alt"/> </a> 
+<a  target="_blank"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white " alt="alt"/> </a>
+<a  target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white " alt="alt"/> </a>
+<a  target="_blank"> <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white " alt="alt"/> </a>
 <a  target="_blank"> <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white " alt="alt"/> </a>
 <a target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="alt"/></a>
 <a href="https://wandb.ai/site" target="_blank"><img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" alt="alt"/></a>
@@ -100,9 +110,8 @@
 <a target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="alt"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="alt"/></a>
 <a href="https://plotly.com/" target="_blank"><img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="alt"/></a>
-<a href="https://ai.stackexchange.com/users/36737/faizy" target="_blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="alt"/></a> 
+<a href="https://ai.stackexchange.com/users/36737/faizy" target="_blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="alt"/></a>
 <a href="https://www.sololearn.com/profile/1507038" target="_blank"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt="alt"/></a>
-
 
 <h3 align="left">Trophy Stats:</h3>
 
@@ -110,5 +119,3 @@
 <p align='center'>
   <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=mohd-faizy&theme=monokai"></a>
 </p>
-
-
