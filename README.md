@@ -24,9 +24,10 @@
   <a href="https://ai.stackexchange.com/users/36737/faizy?tab=profile">
     <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />
   </a>&nbsp;&nbsp;  
-  <a href="[https://www.youtube.com/@your_channel_name](https://www.youtube.com/channel/UCP4R-svd55xLLxhqFNBTEaQ)">
+  <a href="https://www.youtube.com/channel/UCP4R-svd55xLLxhqFNBTEaQ">
   <img src="https://img.shields.io/badge/YouTube-Red?logo=youtube&logoColor=red&style=for-the-badge&color=maroon&text=maroon" />
 </a>
+
 
 </p>
 
