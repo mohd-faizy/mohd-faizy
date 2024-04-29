@@ -71,14 +71,12 @@
 </div>
 
 
-<div>
-  <a href="https://mohdfaizy.com/">
-    <img width="49%" alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohd-faizy&theme=ayu_mirage"/>
+<p align='center'>
+<a href="https://mohdfaizy.com/">
+    <img width="49%" alt="Streak Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohd-faizy&theme=ayu_mirage&utcOffset="/>
   </a>
-  <a href="https://mohdfaizy.com/">
-    <img width="49%" alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohd-faizy&theme=ayu_mirage&utcOffset=8"/>
-  </a>
-</div>
+</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
