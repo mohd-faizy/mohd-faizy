@@ -72,6 +72,13 @@
 </p>
 
 
+<div align=center>
+   <a href="https://github.com/mohd-faizy">
+   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mohd-faizy&&theme=redical&hide_border=true" height=350 width=700 />
+   </a>
+</div>
+
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
