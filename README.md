@@ -51,6 +51,14 @@
   </a>
 </p>
 
+</br>
+
+<h3 align="left">Github Profile Summary Card :</h3>
+
+</p>
+<p align='center'>
+  <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohd-faizy&theme=ayu_mirage"></a>
+</p>
 
 
 <div>
@@ -62,20 +70,14 @@
   </a>
 </div>
 
-</br>
 
-<h3 align="left">Github Profile Summary Card :</h3>
-
-</p>
-<p align='center'>
-  <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohd-faizy&theme=dracula"></a>
-</p>
-
-
-<div align=center>
-   <a href="https://github.com/mohd-faizy">
-   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mohd-faizy&&theme=redical&hide_border=true" height=350 width=700 />
-   </a>
+<div>
+  <a href="https://mohdfaizy.com/">
+    <img width="49%" alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohd-faizy&theme=ayu_mirage"/>
+  </a>
+  <a href="https://mohdfaizy.com/">
+    <img width="49%" alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohd-faizy&theme=ayu_mirage&utcOffset=8"/>
+  </a>
 </div>
 
 
