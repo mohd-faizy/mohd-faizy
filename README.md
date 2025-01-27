@@ -7,7 +7,7 @@
 </p>  -->
 
 <p align='center'>
-  A <b>Data Science</b> Enthusiast | Focused on Solving real-world problem using <b>AI</b> & <b>Machine Learning<b> | <b>Masters Degree in Electronics & Comm. Engg.</b> | 🎓Alumnus: Jamia Millia Islamia
+  A <b>Data Science</b> Enthusiast | Focused on Solving real-world problem using <b>AI</b> & <b>Machine Learning<b> | <b>Diploma, Bachelor & Masters Degree in Electronics & Comm. Engg.</b> | 🎓Alumnus: Jamia Millia Islamia
 </p>
 
 <p align='center'>
@@ -43,13 +43,7 @@
 - **Aims** at Bridging the gap between **AI Universe** and **Chip level Universe** to get from AI frameworks like **TensorFlow** into synthesizable **RTL**, enabling the development of high-performance inference architectures.
 - I’m currently learning [**TensorFlow Probability**](https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow) for **probabilistic reasoning** and **statistical analysis**
 
-<h3 align="left">Stats:</h3>
 
-<p align='center'>
-<a href="https://mohdfaizy.com/">
-    <img width="65%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-faizy&theme=dark&hide_border=true"/>
-  </a>
-</p>
 
 </br>
 
@@ -101,7 +95,13 @@
 <a target="_blank"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white " alt="alt"/> </a>
 <a target="_blank"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="alt"/></a>
 <a target="_blank"> <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="alt"/> </a>
+</p> 
 
+<h3 align="left">🤖 Artificial Intelligence </h3>
+<p align="left">
+<a target="_blank"> <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="alt"/> </a>
+<a target="_blank"> <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="alt"/> </a>
+<a target="_blank"> <img src="https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F" alt="alt"/> </a>
 </p>
 
 <h3 align="left">🕸️Web Development:</h3>
@@ -150,6 +150,8 @@
 <a target="_blank"><img src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white" alt="alt"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="alt"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="alt"/></a>
+<a target="_blank"> <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="alt"/> </a>
+<a  target="_blank"> <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="alt"/> </a>
 </p>
 
 
@@ -161,6 +163,7 @@
 <a href="https://keras.io/api/" target="_blank"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="alt"/></a>
 <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/></a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
+<a  target="_blank"> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="alt"/> </a>
 <a target="_blank"><img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" alt="alt"/></a>
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/> </a>
 <a href="https://plotly.com/" target="_blank"><img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="alt"/></a>
