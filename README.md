@@ -21,8 +21,17 @@ Status: Currently GenAI & Agentic AI
 Objective: Converting AI frameworks → Synthesizable RTL
 ```
 
+<div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mohd-faizy&color=00ff41&style=for-the-badge&label=NEURAL+SCANS)](https://github.com/mohd-faizy)
+[![Profile Views](https://komarev.com/ghpvc/?username=mohd-faizy&color=00ff41&style=for-the-badge&label=NEURAL+SCANS)](https://github.com/mohd-faizy)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-faizy/)
+[![Twitter](https://img.shields.io/badge/-X-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/F4izy)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://ai.stackexchange.com/users/36737/faizy)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/faizy3307)
+
+</div>
+
+
 
 
 
