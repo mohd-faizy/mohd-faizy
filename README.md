@@ -1,9 +1,10 @@
+
+# 🌟 Mohd Faizy | AI Universe ↔ Silicon Reality
+
 <p align='center'>
   <a href="#"><img src="https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/git-banner.png"></a>
 </p>
 
-
----
 
 ## 🌌 **OVERVIEW**
 
@@ -31,41 +32,44 @@ Objective: "Convert AI frameworks → Synthesizable RTL"
 ```
 
 
+### 🔗 **CONNECT**
+
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mohd-faizy&color=00ff41&style=for-the-badge&label=NEURAL+SCANS)](https://github.com/mohd-faizy)  
+[![Profile Views](https://komarev.com/ghpvc/?username=mohd-faizy&color=00ff41&style=for-the-badge&label=+NEURAL+SCANS)](https://github.com/mohd-faizy)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-faizy/)
-[![Twitter](https://img.shields.io/badge/-X-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/F4izy)
+[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/F4izy)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://ai.stackexchange.com/users/36737/faizy)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/faizy3307)
 
 </div>
 
 
+## 📊 **ANALYTICS**
+
+<div align="center">
+
+<img src="https://github-stats-alpha.vercel.app/api?username=mohd-faizy&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mohd-faizy&theme=radical&hide_border=true)
+
+</div>
 
 
-
-<p align='center'>
-<a href="https://github.com/mohd-faizy">
-    <img src="https://github-stats-alpha.vercel.app/api?username=mohd-faizy&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-    
-</a>
-</p>
-
-</br>
-
-
----
 
 | Category | Technologies |
 |:--------:|:-------------|
 | **🧠 Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-004B87?style=flat-square&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-8BC34A?style=flat-square&logoColor=white) ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black) ![H2O.ai](https://img.shields.io/badge/H2O.ai-FFDD00?style=flat-square&logoColor=black) ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=flat-square&logo=scipy&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white) |
 | **🧬 Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![FastAI](https://img.shields.io/badge/FastAI-3B4D80?style=flat-square&logoColor=white) ![DeepSpeed](https://img.shields.io/badge/DeepSpeed-00BFFF?style=flat-square&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white) |
 | **🗣 NLP** | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Transformers](https://img.shields.io/badge/Transformers-FFD166?style=flat-square&logoColor=black) ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-154360?style=flat-square&logoColor=white) ![OpenNLP](https://img.shields.io/badge/OpenNLP-006699?style=flat-square&logoColor=white) ![Rasa](https://img.shields.io/badge/Rasa-5A17EE?style=flat-square&logo=rasa&logoColor=white) |
-| **🤖 Generative AI & LLMs** | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white) ![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-FF8C00?style=flat-square&logo=anthropic&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white) ![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=flat-square&logo=meta&logoColor=white) ![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat-square&logo=mistral&logoColor=white) ![Command R](https://img.shields.io/badge/Command%20R-2C2C2C?style=flat-square&logoColor=white) |
+| **🤖 Generative AI & LLMs** | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white) ![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-FF8C00?style=flat-square&logo=anthropic&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white) ![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=flat-square&logo=meta&logoColor=white) ![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat-square&logo=mistral&logoColor=white) |
 | **🕹 Agentic AI & Automation** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logoColor=white) ![AutoGen](https://img.shields.io/badge/AutoGen-4CAF50?style=flat-square&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-8B5CF6?style=flat-square&logoColor=white) ![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Haystack](https://img.shields.io/badge/Haystack-FFCC00?style=flat-square&logoColor=black) |
 | **🗄 Vector Databases & Retrieval** | ![RAG](https://img.shields.io/badge/RAG-FF6B35?style=flat-square&logoColor=white) ![Vector DB](https://img.shields.io/badge/Vector%20DB-4B0082?style=flat-square&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white) ![ChromaDB](https://img.shields.io/badge/Chroma-FF4B4B?style=flat-square&logoColor=white) ![Weaviate](https://img.shields.io/badge/Weaviate-16A085?style=flat-square&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=flat-square&logo=facebook&logoColor=white)|
-| **📊 Data Visualization & BI** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-239120?style=flat-square&logo=plotly&logoColor=white) ![Dash](https://img.shields.io/badge/Dash-1E4D2B?style=flat-square&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) |
+| **📊 Data Visualization & BI** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-239120?style=flat-square&logo=plotly&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) |
 | **🧪 Experiment Tracking & MLOps** | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black) ![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white) ![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=flat-square&logo=kubeflow&logoColor=white) ![Metaflow](https://img.shields.io/badge/Metaflow-00A1E4?style=flat-square&logoColor=white) |
 | **🕸️ Web Development** | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![JSON](https://img.shields.io/badge/json-5E5C5C?style=flat-square&logo=json&logoColor=white) |
 | **📅 Databases** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) |
@@ -76,13 +80,18 @@ Objective: "Convert AI frameworks → Synthesizable RTL"
 
 
 
-## 🏆 **ACHIEVEMENT MATRIX**
+![Trophy](https://github-profile-trophy.vercel.app/?username=mohd-faizy&theme=nord&no-frame=true&row=1&column=7)
 
-<div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=mohd-faizy&theme=nord&no-frame=true&row=1&column=6)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohd-faizy&theme=react-dark&hide_border=true&area=true)](https://github.com/mohd-faizy)
 
-</div>
+---
+
+> *"In the intersection of artificial intelligence and silicon dreams,  
+> lies the future of computational reality."*  
+> **— Mohd Faizy**
+
+
 
 
 
