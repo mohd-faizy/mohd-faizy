@@ -32,7 +32,7 @@ Objective: "Convert AI frameworks → Synthesizable RTL"
 ```
 
 
-### 🔗 **CONNECT**
+## 🔗 **CONNECT**
 
 <div align="center">
 
@@ -79,8 +79,11 @@ Objective: "Convert AI frameworks → Synthesizable RTL"
 | **🪄 Design Tools** | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=black) |
 
 
+<div align="center">
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=mohd-faizy&theme=nord&no-frame=true&row=1&column=7)
+
+<div>
 
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohd-faizy&theme=react-dark&hide_border=true&area=true)](https://github.com/mohd-faizy)
