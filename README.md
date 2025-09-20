@@ -90,11 +90,5 @@ Objective: "Convert AI frameworks → Synthesizable RTL"
 
 ---
 
-> *"In the intersection of artificial intelligence and silicon dreams,  
-> lies the future of computational reality."*  
-> **— Mohd Faizy**
-
-
-
-
-
+> *"AI seeks efficient heuristics to tackle NP-complete problems,
+> where exact algorithms are impractical"*  
