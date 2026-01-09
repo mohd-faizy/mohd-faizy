@@ -1,35 +1,7 @@
-
-# 🌟 Mohd Faizy | AI Universe ↔ Silicon Reality
-
 <p align='center'>
   <a href="#"><img src="https://github.com/mohd-faizy/mohd-faizy/blob/main/mohd-faizy/git-banner.png"></a>
 </p>
 
-
-## 🌌 **OVERVIEW**
-
-```yaml
-Name: Mohd Faizy
-Titles:
-  - 🧠 Data Science Enthusiast
-  - 🤖 AI / GenAI / Agentic AI Engineer
-  - ⚡ Electronics Engineer
-Mission: "Bridging the AI Universe ↔ Chip-Level Universe"
-Education:
-  - 🎓 M.Tech in Electronics & Communication Engineering
-  - 🎓 B.E. in Electronics Engineering
-  - 🎓 Diploma in Electronics Engineering
-  - 🏛️ Alumnus: Jamia Millia Islamia
-Core Expertise:
-  - AI → HDL Translation & Hardware Acceleration
-  - Digital Design (RTL, FPGA, ASIC)
-  - Machine Learning & Deep Learning
-Current Focus:
-  - Generative AI
-  - Agentic AI
-  - AI-driven VLSI Automation
-Objective: "Convert AI frameworks → Synthesizable RTL"
-```
 
 
 ## 🔗 **CONNECT**
@@ -89,6 +61,3 @@ Objective: "Convert AI frameworks → Synthesizable RTL"
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohd-faizy&theme=react-dark&hide_border=true&area=true)](https://github.com/mohd-faizy)
 
 ---
-
-> *"AI seeks efficient heuristics to tackle NP-complete problems,
-> where exact algorithms are impractical"*  
