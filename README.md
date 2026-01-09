@@ -17,28 +17,6 @@
 </div>
 
 
-## 📊 **ANALYTICS**
-
-<div align="center">
-
-  <!-- GitHub Stats & Streak -->
-  <a href="https://github.com/mohd-faizy">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="150" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/mohd-faizy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-faizy&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" height="150" alt="Top Languages" />
-  </a>
-
-  <br />
-
-  <!-- Streak Stats -->
-  <a href="https://github.com/mohd-faizy">
-    <img src="https://streak-stats.demolab.com/?user=mohd-faizy&theme=react&hide_border=true&background=0D1117&ring=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" />
-  </a>
-
-</div>
-
-
 
 | Category | Technologies |
 |:--------:|:-------------|
@@ -57,18 +35,5 @@
 | **🔨 Development Tools** | ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white) ![Cursor](https://img.shields.io/badge/cursor-000000?style=flat-square&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white) ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Conda](https://img.shields.io/badge/conda-342B029?style=flat-square&logo=anaconda&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white) ![Spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=flat-square&logo=spyder%20ide&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-575757?style=flat-square&logo=sublime-text&logoColor=important) ![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-DD1200?style=flat-square&logo=Replit&logoColor=white) |
 | **🪄 Design Tools** | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=black) |
 
-
 <br/>
 
-## 🏆 **TROPHIES**
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=mohd-faizy&theme=gitdimmed&no-frame=true&column=7&margin-w=15&margin-h=15)
-
-<div>
-
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohd-faizy&theme=react-dark&hide_border=true&area=true)](https://github.com/mohd-faizy)
-
----
