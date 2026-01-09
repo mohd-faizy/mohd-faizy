@@ -21,13 +21,20 @@
 
 <div align="center">
 
-<img src="https://github-stats-alpha.vercel.app/api?username=mohd-faizy&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" />
+  <!-- GitHub Stats & Streak -->
+  <a href="https://github.com/mohd-faizy">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="150" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/mohd-faizy">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-faizy&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" height="150" alt="Top Languages" />
+  </a>
 
-</div>
+  <br />
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mohd-faizy&theme=radical&hide_border=true)
+  <!-- Streak Stats -->
+  <a href="https://github.com/mohd-faizy">
+    <img src="https://streak-stats.demolab.com/?user=mohd-faizy&theme=react&hide_border=true&background=0D1117&ring=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" />
+  </a>
 
 </div>
 
@@ -51,9 +58,13 @@
 | **🪄 Design Tools** | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=black) |
 
 
+<br/>
+
+## 🏆 **TROPHIES**
+
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=mohd-faizy&theme=nord&no-frame=true&row=1&column=7)
+![Trophy](https://github-profile-trophy.vercel.app/?username=mohd-faizy&theme=gitdimmed&no-frame=true&column=7&margin-w=15&margin-h=15)
 
 <div>
 
