@@ -34,15 +34,6 @@
 </div>
 
 
----
-
-## 📈 **CONTRIBUTION GRAPH**
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohd-faizy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6347&area=true&area_color=1F6FEB)
-
-</div>
 
 ---
 
