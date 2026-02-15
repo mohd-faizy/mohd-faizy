@@ -16,25 +16,60 @@
 
 </div>
 
-<br/>
+---
+
+## 📊 **GITHUB ANALYTICS**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-faizy&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats-six-seven.vercel.app/api?username=mohd-faizy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&rank_icon=github)
+![Top Langs](https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=mohd-faizy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 </div>
 
 <div align="center">
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mohd-faizy&theme=dark)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mohd-faizy&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6347&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E)
 
 </div>
 
-<br/>
+---
 
+## 🏆 **GITHUB TROPHIES**
 
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=mohd-faizy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)
+
+</div>
+
+---
+
+## 📈 **CONTRIBUTION GRAPH**
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohd-faizy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6347&area=true&area_color=1F6FEB)
+
+</div>
+
+---
+
+## 📉 **PROFILE SUMMARY**
+
+<div align="center">
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohd-faizy&theme=tokyonight)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohd-faizy&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohd-faizy&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohd-faizy&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohd-faizy&theme=tokyonight&utcOffset=5.5)
+
+</div>
+
+---
 
 | Category | Technologies |
 |:--------:|:-------------|
