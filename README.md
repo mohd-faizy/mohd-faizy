@@ -16,6 +16,24 @@
 
 </div>
 
+<br/>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-faizy&layout=compact&theme=dark)
+
+</div>
+
+<div align="center">
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mohd-faizy&theme=dark)
+
+</div>
+
+<br/>
+
 
 
 | Category | Technologies |
