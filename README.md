@@ -33,15 +33,6 @@
 
 </div>
 
----
-
-## 🏆 **GITHUB TROPHIES**
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=mohd-faizy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)
-
-</div>
 
 ---
 
@@ -64,7 +55,6 @@
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohd-faizy&theme=tokyonight)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohd-faizy&theme=tokyonight)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohd-faizy&theme=tokyonight)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohd-faizy&theme=tokyonight&utcOffset=5.5)
 
 </div>
